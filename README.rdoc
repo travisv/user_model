@@ -1,0 +1,1 @@
+Basic user model with authentication
